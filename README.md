@@ -16,12 +16,12 @@ O projeto está organizado da seguinte maneira:
 ```
 project_one/ 
 <p></p>├── src/main/java/com/senai/project_one/ 
-│ ├── controller/ │ 
-│ └── HelloWorldController.java │ 
-├── service/ │ 
-│ └── HelloWorldService.java 
-│ └── domain/ 
-│ └── User.java
+<p></p>│ ├── controller/ │ 
+<p></p>│ └── HelloWorldController.java │ 
+<p></p>├── service/ │ 
+<p></p>│ └── HelloWorldService.java 
+<p></p>│ └── domain/ 
+<p></p>│ └── User.java
 ``` 
 
 ##  Como Executar
