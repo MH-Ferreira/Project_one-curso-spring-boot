@@ -91,7 +91,7 @@ Content-Type: application/json
 - O parâmetro `filter` é opcional e tem valor padrão "nenhum"
 - Todas as requisições POST requerem um corpo (body) com objeto User em formato JSON
 
-- GitHub: [@seu-username](https://github.com/MH-Ferreira)
+- GitHub: [Meu git](https://github.com/MH-Ferreira)
 ``` 
 
 Para usar este README, você só precisa:
